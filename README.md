@@ -9,3 +9,6 @@ ___
 **Recursion**
 * Fibonacci numbers
 * Product sum
+
+**Searching**
+* Binary search
