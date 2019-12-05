@@ -12,3 +12,4 @@ ___
 
 **Searching**
 * Binary search
+* Find three largest numbers
