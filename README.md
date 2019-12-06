@@ -13,3 +13,6 @@ ___
 **Searching**
 * Binary search
 * Find three largest numbers
+
+**Sorting**
+* Bubble sort
