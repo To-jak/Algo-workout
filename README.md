@@ -19,3 +19,4 @@ ___
 
 **Sorting**
 * Bubble sort
+* Insertion sort
