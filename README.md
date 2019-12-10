@@ -21,3 +21,6 @@ ___
 * Bubble sort
 * Insertion sort
 * Selection sort
+
+**Strings**
+* Palindrome check
