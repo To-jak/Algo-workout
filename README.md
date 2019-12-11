@@ -24,4 +24,4 @@ ___
 
 **Strings**
 * Palindrome check
-* caesar cipher
+* Caesar cipher
