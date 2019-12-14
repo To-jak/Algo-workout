@@ -9,6 +9,7 @@ ___
 **Arrays**
 * Three number sum
 * Smallest difference
+* Move element to end
 
 **Binary trees**
 * Branch sums
