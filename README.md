@@ -14,6 +14,9 @@ ___
 **Binary trees**
 * Branch sums
 
+**Binary search trees**
+* BST construction
+
 **Recursion**
 * Fibonacci numbers
 * Product sum
