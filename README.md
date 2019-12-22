@@ -13,6 +13,7 @@ ___
 
 **Binary trees**
 * Branch sums
+* Invert binary tree
 
 **Binary search trees**
 * BST construction
