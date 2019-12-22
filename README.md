@@ -11,12 +11,15 @@ ___
 * Smallest difference
 * Move element to end
 
+**Binary search trees**
+* BST construction
+
 **Binary trees**
 * Branch sums
 * Invert binary tree
 
-**Binary search trees**
-* BST construction
+**Dynamic programming**
+* Max subset sum no adjacent
 
 **Recursion**
 * Fibonacci numbers
