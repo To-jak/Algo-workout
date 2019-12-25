@@ -20,6 +20,7 @@ ___
 
 **Dynamic programming**
 * Max subset sum no adjacent
+* Number of ways to make change
 
 **Recursion**
 * Fibonacci numbers
