@@ -21,6 +21,7 @@ ___
 **Dynamic programming**
 * Max subset sum no adjacent
 * Number of ways to make change
+* Min number of coins for change
 
 **Recursion**
 * Fibonacci numbers
