@@ -22,6 +22,7 @@ ___
 * Max subset sum no adjacent
 * Number of ways to make change
 * Min number of coins for change
+* Levenshtein distance
 
 **Recursion**
 * Fibonacci numbers
