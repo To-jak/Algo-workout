@@ -27,6 +27,9 @@ ___
 **Famous algorithms**
 * Kadane's algorithm
 
+**Graphs**
+* Has single cycle
+
 **Recursion**
 * Fibonacci numbers
 * Product sum
