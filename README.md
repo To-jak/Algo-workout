@@ -24,6 +24,9 @@ ___
 * Min number of coins for change
 * Levenshtein distance
 
+**Famous algorithms**
+* Kadane's algorithm
+
 **Recursion**
 * Fibonacci numbers
 * Product sum
