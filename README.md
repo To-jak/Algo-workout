@@ -29,6 +29,7 @@ ___
 
 **Graphs**
 * Has single cycle
+* Breadth first search
 
 **Recursion**
 * Fibonacci numbers
