@@ -30,6 +30,7 @@ ___
 **Graphs**
 * Has single cycle
 * Breadth first search
+* River sizes
 
 **Recursion**
 * Fibonacci numbers
