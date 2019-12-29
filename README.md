@@ -33,6 +33,9 @@ ___
 * River sizes
 * Youngest common ancestor
 
+**Heaps**
+* Min heap construction
+
 **Recursion**
 * Fibonacci numbers
 * Product sum
