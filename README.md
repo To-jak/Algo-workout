@@ -36,6 +36,9 @@ ___
 **Heaps**
 * Min heap construction
 
+**Linked lists**
+* Remove Kth element from end
+
 **Recursion**
 * Fibonacci numbers
 * Product sum
