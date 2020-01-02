@@ -42,6 +42,7 @@ ___
 **Recursion**
 * Fibonacci numbers
 * Product sum
+* Permutations
 
 **Searching**
 * Binary search
