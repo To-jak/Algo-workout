@@ -43,10 +43,12 @@ ___
 * Fibonacci numbers
 * Product sum
 * Permutations
+* Powerset
 
 **[Searching](https://github.com/To-jak/Algo-workout/blob/master/Searching/Searching.ipynb)**
 * Binary search
 * Find three largest numbers
+* Search in sorted matrix
 
 **[Sorting](https://github.com/To-jak/Algo-workout/blob/master/Sorting/Sorting.ipynb)**
 * Bubble sort
