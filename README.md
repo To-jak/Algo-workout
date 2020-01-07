@@ -55,6 +55,9 @@ ___
 * Insertion sort
 * Selection sort
 
+**[Stacks](https://github.com/To-jak/Algo-workout/blob/master/Stacks/stacks.ipynb)**
+* Min max stack construction
+
 **[Strings](https://github.com/To-jak/Algo-workout/blob/master/Strings/strings.ipynb)**
 * Palindrome check
 * Caesar cipher
