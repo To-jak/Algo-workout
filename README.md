@@ -57,6 +57,7 @@ ___
 
 **[Stacks](https://github.com/To-jak/Algo-workout/blob/master/Stacks/stacks.ipynb)**
 * Min max stack construction
+* Balanced brackets
 
 **[Strings](https://github.com/To-jak/Algo-workout/blob/master/Strings/strings.ipynb)**
 * Palindrome check
