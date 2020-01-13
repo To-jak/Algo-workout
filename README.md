@@ -63,3 +63,4 @@ ___
 * Palindrome check
 * Caesar cipher
 * Longest palindromic substring
+* Group anagrams
