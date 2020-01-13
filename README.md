@@ -62,3 +62,4 @@ ___
 **[Strings](https://github.com/To-jak/Algo-workout/blob/master/Strings/strings.ipynb)**
 * Palindrome check
 * Caesar cipher
+* Longest palindromic substring
