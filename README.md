@@ -10,6 +10,7 @@ ___
 * Three number sum
 * Smallest difference
 * Move element to end
+* Four number sum
 
 **[Binary search trees](./Binary%20search%20trees/binary_search_trees.ipynb)**
 * BST construction
