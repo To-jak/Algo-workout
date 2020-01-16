@@ -11,6 +11,7 @@ ___
 * Smallest difference
 * Move element to end
 * Four number sum
+* Subarray sort
 
 **[Binary search trees](./Binary%20search%20trees/binary_search_trees.ipynb)**
 * BST construction
