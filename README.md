@@ -14,6 +14,7 @@ ___
 * Subarray sort
 * Largest range
 * Min rewards
+* Zizag traverse
 
 **[Binary search trees](./Binary%20search%20trees/binary_search_trees.ipynb)**
 * BST construction
