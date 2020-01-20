@@ -18,6 +18,7 @@ ___
 
 **[Binary search trees](./Binary%20search%20trees/binary_search_trees.ipynb)**
 * BST construction
+* Same BSTs
 
 **[Binary trees](./Binary%20Trees/binary_trees.ipynb)**
 * Branch sums
