@@ -23,6 +23,7 @@ ___
 **[Binary trees](./Binary%20Trees/binary_trees.ipynb)**
 * Branch sums
 * Invert binary tree
+* Max path sum
 
 **[Dynamic programming](./Dynamic%20programming/dynamic_programming.ipynb)**
 * Max subset sum no adjacent
