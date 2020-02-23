@@ -31,6 +31,7 @@ ___
 * Min number of coins for change
 * Levenshtein distance
 * Max Sum Increasing Subsequence
+* Min Number Jumps
 
 **[Famous algorithms](./Famous%20algorithms/famous_algorithms.ipynb)**
 * Kadane's algorithm
